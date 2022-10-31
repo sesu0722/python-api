@@ -1,4 +1,4 @@
-# Unit 6 Homework: What's the Weather Like?
+# What's the Weather Like?
 
 ## Background
 
