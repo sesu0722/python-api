@@ -2,7 +2,7 @@
 
 ## Background
 
-In this assignment, I gathered dataset from OpenWeather to answer a fundamental question: "What's the weather like as we approach the equator?" by analyzing the coorelation between latitude and weather conditions. Then, created a heatmap with hotel names of the cities from the dataset by using Google Map and Places API.
+I gathered dataset from OpenWeather to answer a fundamental question: "What's the weather like as we approach the equator?" by analyzing the coorelation between latitude and weather conditions. Then, created a heatmap with hotel names of the cities from the dataset by using Google Map and Places API.
 
 
 ### Part I: WeatherPy
