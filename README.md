@@ -36,6 +36,7 @@ Base on the weather data from part I to plan future vacations. Use Jupyter-gmaps
 
 
 * Create a heat map that displays the humidity for every city from Part I, as the image file heatmap.png in Images folder.
+<img width="798" alt="Screenshot 2023-02-02 at 11 17 40 AM" src="https://user-images.githubusercontent.com/105521221/216380820-a8f802e3-63f5-4d95-88cf-d6d4484504f0.png">
 
 * Narrow down the DataFrame to find the ideal weather condition:
 
@@ -48,6 +49,7 @@ Base on the weather data from part I to plan future vacations. Use Jupyter-gmaps
 * Use Google Places API to find the first hotel for each city located within 5,000 meters of these cities.
 
 * Plot the hotels on top of the humidity heatmap, with each pin containing the **Hotel Name**, **City**, and **Country**, as in the image file heatmapwithmarker.png in Images folder.
+<img width="805" alt="Screenshot 2023-02-02 at 11 18 17 AM" src="https://user-images.githubusercontent.com/105521221/216380941-17670baf-3914-412d-a38e-384e650e043c.png">
 
 
 ### Summary Analysis:
